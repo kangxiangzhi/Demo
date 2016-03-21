@@ -1,0 +1,5 @@
+com\Shop\Dao\UserDao.class
+com\Shop\Model\User.class
+com\Shop\Service\UserService.class
+com\Shop\Dao\BaseDao.class
+com\Shop\Controller\UserController.class
